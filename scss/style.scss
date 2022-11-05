@@ -1,4 +1,4 @@
-div{
-    background-color: white;
-    width: 300px;
-}
+@import 'layout';
+@import 'main';
+@import 'header';
+@import 'reset';
